@@ -1,25 +1,25 @@
-﻿Month of Month,Measure Names,Measure Values
-Jan-20,Avg. Leisure and Hospitality (Openings/Hires Ratio),0.83245614
-Feb-20,Avg. Leisure and Hospitality (Openings/Hires Ratio),0.868940754
-Mar-20,Avg. Leisure and Hospitality (Openings/Hires Ratio),0.951255539
-Apr-20,Avg. Leisure and Hospitality (Openings/Hires Ratio),0.888888889
-May-20,Avg. Leisure and Hospitality (Openings/Hires Ratio),0.373376623
-Jun-20,Avg. Leisure and Hospitality (Openings/Hires Ratio),0.4345
-Jul-20,Avg. Leisure and Hospitality (Openings/Hires Ratio),0.605805959
-Aug-20,Avg. Leisure and Hospitality (Openings/Hires Ratio),0.769628099
-Sep-20,Avg. Leisure and Hospitality (Openings/Hires Ratio),0.744053283
-Oct-20,Avg. Leisure and Hospitality (Openings/Hires Ratio),0.734497817
-Nov-20,Avg. Leisure and Hospitality (Openings/Hires Ratio),0.783410138
-Dec-20,Avg. Leisure and Hospitality (Openings/Hires Ratio),0.928571429
-Jan-21,Avg. Leisure and Hospitality (Openings/Hires Ratio),0.782128514
-Feb-21,Avg. Leisure and Hospitality (Openings/Hires Ratio),0.861135371
-Mar-21,Avg. Leisure and Hospitality (Openings/Hires Ratio),0.969378828
-Apr-21,Avg. Leisure and Hospitality (Openings/Hires Ratio),0.980408163
-May-21,Avg. Leisure and Hospitality (Openings/Hires Ratio),1.086956522
-Jun-21,Avg. Leisure and Hospitality (Openings/Hires Ratio),1.2143446
-Jul-21,Avg. Leisure and Hospitality (Openings/Hires Ratio),1.29089444
-Aug-21,Avg. Leisure and Hospitality (Openings/Hires Ratio),1.392220421
-Sep-21,Avg. Leisure and Hospitality (Openings/Hires Ratio),1.29352397
-Oct-21,Avg. Leisure and Hospitality (Openings/Hires Ratio),1.384223919
-Nov-21,Avg. Leisure and Hospitality (Openings/Hires Ratio),1.370065789
-Dec-21,Avg. Leisure and Hospitality (Openings/Hires Ratio),1.669463087
+﻿month,value
+Jan-20,0.83245614
+Feb-20,0.868940754
+Mar-20,0.951255539
+Apr-20,0.888888889
+May-20,0.373376623
+Jun-20,0.4345
+Jul-20,0.605805959
+Aug-20,0.769628099
+Sep-20,0.744053283
+Oct-20,0.734497817
+Nov-20,0.783410138
+Dec-20,0.928571429
+Jan-21,0.782128514
+Feb-21,0.861135371
+Mar-21,0.969378828
+Apr-21,0.980408163
+May-21,1.086956522
+Jun-21,1.2143446
+Jul-21,1.29089444
+Aug-21,1.392220421
+Sep-21,1.29352397
+Oct-21,1.384223919
+Nov-21,1.370065789
+Dec-21,1.669463087

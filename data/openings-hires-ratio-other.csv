@@ -1,25 +1,25 @@
-﻿Month of Month,Measure Names,Measure Values
-Jan-20,Avg. Other Services (Openings/Hires Ratio),1.155172414
-Feb-20,Avg. Other Services (Openings/Hires Ratio),0.907079646
-Mar-20,Avg. Other Services (Openings/Hires Ratio),1.034246575
-Apr-20,Avg. Other Services (Openings/Hires Ratio),0.906040268
-May-20,Avg. Other Services (Openings/Hires Ratio),0.30318258
-Jun-20,Avg. Other Services (Openings/Hires Ratio),0.687664042
-Jul-20,Avg. Other Services (Openings/Hires Ratio),1.373737374
-Aug-20,Avg. Other Services (Openings/Hires Ratio),1.0456621
-Sep-20,Avg. Other Services (Openings/Hires Ratio),0.971544715
-Oct-20,Avg. Other Services (Openings/Hires Ratio),1.004166667
-Nov-20,Avg. Other Services (Openings/Hires Ratio),1.033175355
-Dec-20,Avg. Other Services (Openings/Hires Ratio),1.153409091
-Jan-21,Avg. Other Services (Openings/Hires Ratio),1.135514019
-Feb-21,Avg. Other Services (Openings/Hires Ratio),1.151639344
-Mar-21,Avg. Other Services (Openings/Hires Ratio),1.100456621
-Apr-21,Avg. Other Services (Openings/Hires Ratio),1.553648069
-May-21,Avg. Other Services (Openings/Hires Ratio),2.108597285
-Jun-21,Avg. Other Services (Openings/Hires Ratio),1.619834711
-Jul-21,Avg. Other Services (Openings/Hires Ratio),1.76171875
-Aug-21,Avg. Other Services (Openings/Hires Ratio),1.99543379
-Sep-21,Avg. Other Services (Openings/Hires Ratio),1.742307692
-Oct-21,Avg. Other Services (Openings/Hires Ratio),1.927350427
-Nov-21,Avg. Other Services (Openings/Hires Ratio),1.660305344
-Dec-21,Avg. Other Services (Openings/Hires Ratio),1.4140625
+﻿month,value
+Jan-20,1.155172414
+Feb-20,0.907079646
+Mar-20,1.034246575
+Apr-20,0.906040268
+May-20,0.30318258
+Jun-20,0.687664042
+Jul-20,1.373737374
+Aug-20,1.0456621
+Sep-20,0.971544715
+Oct-20,1.004166667
+Nov-20,1.033175355
+Dec-20,1.153409091
+Jan-21,1.135514019
+Feb-21,1.151639344
+Mar-21,1.100456621
+Apr-21,1.553648069
+May-21,2.108597285
+Jun-21,1.619834711
+Jul-21,1.76171875
+Aug-21,1.99543379
+Sep-21,1.742307692
+Oct-21,1.927350427
+Nov-21,1.660305344
+Dec-21,1.4140625

@@ -1,24 +1,25 @@
-﻿Month of Month,Measure Names,Measure Values
-Feb-20,Avg. Education and Health Services (Openings/Hires Ratio),1.616368286
-Mar-20,Avg. Education and Health Services (Openings/Hires Ratio),1.801515152
-Apr-20,Avg. Education and Health Services (Openings/Hires Ratio),1.790566038
-May-20,Avg. Education and Health Services (Openings/Hires Ratio),0.834605598
-Jun-20,Avg. Education and Health Services (Openings/Hires Ratio),1.169329073
-Jul-20,Avg. Education and Health Services (Openings/Hires Ratio),1.404205607
-Aug-20,Avg. Education and Health Services (Openings/Hires Ratio),1.675070028
-Sep-20,Avg. Education and Health Services (Openings/Hires Ratio),1.696551724
-Oct-20,Avg. Education and Health Services (Openings/Hires Ratio),1.819034853
-Nov-20,Avg. Education and Health Services (Openings/Hires Ratio),1.835180055
-Dec-20,Avg. Education and Health Services (Openings/Hires Ratio),1.785413745
-Jan-21,Avg. Education and Health Services (Openings/Hires Ratio),2.016369048
-Feb-21,Avg. Education and Health Services (Openings/Hires Ratio),2.185135135
-Mar-21,Avg. Education and Health Services (Openings/Hires Ratio),1.964613368
-Apr-21,Avg. Education and Health Services (Openings/Hires Ratio),2.011734029
-May-21,Avg. Education and Health Services (Openings/Hires Ratio),2.232984293
-Jun-21,Avg. Education and Health Services (Openings/Hires Ratio),2.221935484
-Jul-21,Avg. Education and Health Services (Openings/Hires Ratio),2.475195822
-Aug-21,Avg. Education and Health Services (Openings/Hires Ratio),2.286259542
-Sep-21,Avg. Education and Health Services (Openings/Hires Ratio),2.3757503
-Oct-21,Avg. Education and Health Services (Openings/Hires Ratio),2.53874092
-Nov-21,Avg. Education and Health Services (Openings/Hires Ratio),2.450980392
-Dec-21,Avg. Education and Health Services (Openings/Hires Ratio),2.585106383
+﻿month,value
+Jan-20,1.67
+Feb-20,1.616368286
+Mar-20,1.801515152
+Apr-20,1.790566038
+May-20,0.834605598
+Jun-20,1.169329073
+Jul-20,1.404205607
+Aug-20,1.675070028
+Sep-20,1.696551724
+Oct-20,1.819034853
+Nov-20,1.835180055
+Dec-20,1.785413745
+Jan-21,2.016369048
+Feb-21,2.185135135
+Mar-21,1.964613368
+Apr-21,2.011734029
+May-21,2.232984293
+Jun-21,2.221935484
+Jul-21,2.475195822
+Aug-21,2.286259542
+Sep-21,2.3757503
+Oct-21,2.53874092
+Nov-21,2.450980392
+Dec-21,2.585106383

@@ -1,0 +1,265 @@
+﻿obs,month,name,value
+1,January-2020,Construction,0.70263789
+2,February-2020,Construction,0.751861042
+3,March-2020,Construction,0.576441103
+4,April-2020,Construction,0.99047619
+5,May-2020,Construction,0.387895461
+6,June-2020,Construction,0.4609375
+7,July-2020,Construction,0.75826972
+8,August-2020,Construction,0.62628866
+9,September-2020,Construction,0.596401028
+10,October-2020,Construction,0.639896373
+11,November-2020,Construction,0.689655172
+12,December-2020,Construction,0.655256724
+13,January-2021,Construction,0.851851852
+14,February-2021,Construction,0.672774869
+15,March-2021,Construction,0.756756757
+16,April-2021,Construction,0.98502994
+17,May-2021,Construction,1.003257329
+18,June-2021,Construction,0.919770774
+19,July-2021,Construction,0.923287671
+20,August-2021,Construction,0.97574124
+21,September-2021,Construction,1.005780347
+22,October-2021,Construction,1.082872928
+23,November-2021,Construction,0.855140187
+24,December-2021,Construction,0.994459834
+1,January-2020,Education and Health Services,1.67
+2,February-2020,Education and Health Services,1.616368286
+3,March-2020,Education and Health Services,1.801515152
+4,April-2020,Education and Health Services,1.790566038
+5,May-2020,Education and Health Services,0.834605598
+6,June-2020,Education and Health Services,1.169329073
+7,July-2020,Education and Health Services,1.404205607
+8,August-2020,Education and Health Services,1.675070028
+9,September-2020,Education and Health Services,1.696551724
+10,October-2020,Education and Health Services,1.819034853
+11,November-2020,Education and Health Services,1.835180055
+12,December-2020,Education and Health Services,1.785413745
+13,January-2021,Education and Health Services,2.016369048
+14,February-2021,Education and Health Services,2.185135135
+15,March-2021,Education and Health Services,1.964613368
+16,April-2021,Education and Health Services,2.011734029
+17,May-2021,Education and Health Services,2.232984293
+18,June-2021,Education and Health Services,2.221935484
+19,July-2021,Education and Health Services,2.475195822
+20,August-2021,Education and Health Services,2.286259542
+21,September-2021,Education and Health Services,2.3757503
+22,October-2021,Education and Health Services,2.53874092
+23,November-2021,Education and Health Services,2.450980392
+24,December-2021,Education and Health Services,2.585106383
+1,January-2020,Financial Activities,1.949541284
+2,February-2020,Financial Activities,1.723140496
+3,March-2020,Financial Activities,1.502164502
+4,April-2020,Financial Activities,1.698113208
+5,May-2020,Financial Activities,1.5
+6,June-2020,Financial Activities,1.703517588
+7,July-2020,Financial Activities,1.207692308
+8,August-2020,Financial Activities,1.281385281
+9,September-2020,Financial Activities,1.253012048
+10,October-2020,Financial Activities,1.297959184
+11,November-2020,Financial Activities,1.338095238
+12,December-2020,Financial Activities,1.439613527
+13,January-2021,Financial Activities,1.346341463
+14,February-2021,Financial Activities,1.557788945
+15,March-2021,Financial Activities,1.634146341
+16,April-2021,Financial Activities,1.990697674
+17,May-2021,Financial Activities,1.922330097
+18,June-2021,Financial Activities,1.715686275
+19,July-2021,Financial Activities,2.186234818
+20,August-2021,Financial Activities,2.262135922
+21,September-2021,Financial Activities,1.510344828
+22,October-2021,Financial Activities,2.041284404
+23,November-2021,Financial Activities,2.111587983
+24,December-2021,Financial Activities,2.052401747
+1,January-2020,Health Care and Social Assistance,1.760115607
+2,February-2020,Health Care and Social Assistance,1.664233577
+3,March-2020,Health Care and Social Assistance,1.904761905
+4,April-2020,Health Care and Social Assistance,1.864035088
+5,May-2020,Health Care and Social Assistance,0.832869081
+6,June-2020,Health Care and Social Assistance,1.226161369
+7,July-2020,Health Care and Social Assistance,1.478723404
+8,August-2020,Health Care and Social Assistance,1.760517799
+9,September-2020,Health Care and Social Assistance,1.726851852
+10,October-2020,Health Care and Social Assistance,1.89280245
+11,November-2020,Health Care and Social Assistance,1.945773525
+12,December-2020,Health Care and Social Assistance,1.860719875
+13,January-2021,Health Care and Social Assistance,2.201096892
+14,February-2021,Health Care and Social Assistance,2.311248074
+15,March-2021,Health Care and Social Assistance,2.072617247
+16,April-2021,Health Care and Social Assistance,2.080597015
+17,May-2021,Health Care and Social Assistance,2.293154762
+18,June-2021,Health Care and Social Assistance,2.3125
+19,July-2021,Health Care and Social Assistance,2.585585586
+20,August-2021,Health Care and Social Assistance,2.412371134
+21,September-2021,Health Care and Social Assistance,2.456521739
+22,October-2021,Health Care and Social Assistance,2.690677966
+23,November-2021,Health Care and Social Assistance,2.53298153
+24,December-2021,Health Care and Social Assistance,2.647849462
+1,January-2020,Information,1.739726027
+2,February-2020,Information,1.453608247
+3,March-2020,Information,1.680555556
+4,April-2020,Information,3.128205128
+5,May-2020,Information,1.318181818
+6,June-2020,Information,1.754385965
+7,July-2020,Information,1.023529412
+8,August-2020,Information,0.944444444
+9,September-2020,Information,1.099009901
+10,October-2020,Information,1.024793388
+11,November-2020,Information,1.155555556
+12,December-2020,Information,1.414634146
+13,January-2021,Information,1.75
+14,February-2021,Information,1.144329897
+15,March-2021,Information,1.088235294
+16,April-2021,Information,1.125
+17,May-2021,Information,1.371428571
+18,June-2021,Information,1.372727273
+19,July-2021,Information,1.70754717
+20,August-2021,Information,1.56779661
+21,September-2021,Information,1.495652174
+22,October-2021,Information,1.504201681
+23,November-2021,Information,1.692982456
+24,December-2021,Information,2.09009009
+1,January-2020,Leisure and Hospitality,0.83245614
+2,February-2020,Leisure and Hospitality,0.868940754
+3,March-2020,Leisure and Hospitality,0.951255539
+4,April-2020,Leisure and Hospitality,0.888888889
+5,May-2020,Leisure and Hospitality,0.373376623
+6,June-2020,Leisure and Hospitality,0.4345
+7,July-2020,Leisure and Hospitality,0.605805959
+8,August-2020,Leisure and Hospitality,0.769628099
+9,September-2020,Leisure and Hospitality,0.744053283
+10,October-2020,Leisure and Hospitality,0.734497817
+11,November-2020,Leisure and Hospitality,0.783410138
+12,December-2020,Leisure and Hospitality,0.928571429
+13,January-2021,Leisure and Hospitality,0.782128514
+14,February-2021,Leisure and Hospitality,0.861135371
+15,March-2021,Leisure and Hospitality,0.969378828
+16,April-2021,Leisure and Hospitality,0.980408163
+17,May-2021,Leisure and Hospitality,1.086956522
+18,June-2021,Leisure and Hospitality,1.2143446
+19,July-2021,Leisure and Hospitality,1.29089444
+20,August-2021,Leisure and Hospitality,1.392220421
+21,September-2021,Leisure and Hospitality,1.29352397
+22,October-2021,Leisure and Hospitality,1.384223919
+23,November-2021,Leisure and Hospitality,1.370065789
+24,December-2021,Leisure and Hospitality,1.669463087
+1,January-2020,Manufacturing,1.26625387
+2,February-2020,Manufacturing,1.106442577
+3,March-2020,Manufacturing,0.977917981
+4,April-2020,Manufacturing,0.844444444
+5,May-2020,Manufacturing,0.497645212
+6,June-2020,Manufacturing,0.709543568
+7,July-2020,Manufacturing,1.2
+8,August-2020,Manufacturing,1.187341772
+9,September-2020,Manufacturing,1.255936675
+10,October-2020,Manufacturing,1.366925065
+11,November-2020,Manufacturing,1.17603912
+12,December-2020,Manufacturing,1.054176072
+13,January-2021,Manufacturing,1.478753541
+14,February-2021,Manufacturing,1.377088305
+15,March-2021,Manufacturing,1.672605791
+16,April-2021,Manufacturing,2.195431472
+17,May-2021,Manufacturing,2.153284672
+18,June-2021,Manufacturing,2.020361991
+19,July-2021,Manufacturing,2.010660981
+20,August-2021,Manufacturing,1.885529158
+21,September-2021,Manufacturing,2.00212766
+22,October-2021,Manufacturing,1.918918919
+23,November-2021,Manufacturing,1.733333333
+24,December-2021,Manufacturing,1.63238512
+1,January-2020,Mining and Logging,1.125
+2,February-2020,Mining and Logging,1.090909091
+3,March-2020,Mining and Logging,0.722222222
+4,April-2020,Mining and Logging,0.769230769
+5,May-2020,Mining and Logging,0.625
+6,June-2020,Mining and Logging,1.777777778
+7,July-2020,Mining and Logging,0.526315789
+8,August-2020,Mining and Logging,0.714285714
+9,September-2020,Mining and Logging,0.666666667
+10,October-2020,Mining and Logging,1.066666667
+11,November-2020,Mining and Logging,0.75
+12,December-2020,Mining and Logging,0.85
+13,January-2021,Mining and Logging,1.428571429
+14,February-2021,Mining and Logging,1.25
+15,March-2021,Mining and Logging,1.041666667
+16,April-2021,Mining and Logging,1.1
+17,May-2021,Mining and Logging,1.227272727
+18,June-2021,Mining and Logging,1.136363636
+19,July-2021,Mining and Logging,1.7
+20,August-2021,Mining and Logging,1.571428571
+21,September-2021,Mining and Logging,1.8125
+22,October-2021,Mining and Logging,1.380952381
+23,November-2021,Mining and Logging,1.842105263
+24,December-2021,Mining and Logging,1.7
+1,January-2020,Other Services,1.155172414
+2,February-2020,Other Services,0.907079646
+3,March-2020,Other Services,1.034246575
+4,April-2020,Other Services,0.906040268
+5,May-2020,Other Services,0.30318258
+6,June-2020,Other Services,0.687664042
+7,July-2020,Other Services,1.373737374
+8,August-2020,Other Services,1.0456621
+9,September-2020,Other Services,0.971544715
+10,October-2020,Other Services,1.004166667
+11,November-2020,Other Services,1.033175355
+12,December-2020,Other Services,1.153409091
+13,January-2021,Other Services,1.135514019
+14,February-2021,Other Services,1.151639344
+15,March-2021,Other Services,1.100456621
+16,April-2021,Other Services,1.553648069
+17,May-2021,Other Services,2.108597285
+18,June-2021,Other Services,1.619834711
+19,July-2021,Other Services,1.76171875
+20,August-2021,Other Services,1.99543379
+21,September-2021,Other Services,1.742307692
+22,October-2021,Other Services,1.927350427
+23,November-2021,Other Services,1.660305344
+24,December-2021,Other Services,1.4140625
+1,January-2020,Professional and Business Services,1.098106713
+2,February-2020,Professional and Business Services,1.154537287
+3,March-2020,Professional and Business Services,0.965638767
+4,April-2020,Professional and Business Services,0.979118329
+5,May-2020,Professional and Business Services,0.914744233
+6,June-2020,Professional and Business Services,0.869118905
+7,July-2020,Professional and Business Services,1.025022341
+8,August-2020,Professional and Business Services,0.993960311
+9,September-2020,Professional and Business Services,1.086236934
+10,October-2020,Professional and Business Services,1.127845884
+11,November-2020,Professional and Business Services,1.113934426
+12,December-2020,Professional and Business Services,1.291772689
+13,January-2021,Professional and Business Services,1.226351351
+14,February-2021,Professional and Business Services,1.2200489
+15,March-2021,Professional and Business Services,1.308072488
+16,April-2021,Professional and Business Services,1.437229437
+17,May-2021,Professional and Business Services,1.493955095
+18,June-2021,Professional and Business Services,1.462171053
+19,July-2021,Professional and Business Services,1.460377358
+20,August-2021,Professional and Business Services,1.571428571
+21,September-2021,Professional and Business Services,1.453968254
+22,October-2021,Professional and Business Services,1.559541985
+23,November-2021,Professional and Business Services,1.47027027
+24,December-2021,Professional and Business Services,1.667491749
+1,January-2020,"Trade, Transportation, and Utilities",1.003257329
+2,February-2020,"Trade, Transportation, and Utilities",0.950558214
+3,March-2020,"Trade, Transportation, and Utilities",0.945762712
+4,April-2020,"Trade, Transportation, and Utilities",0.806890299
+5,May-2020,"Trade, Transportation, and Utilities",0.651769088
+6,June-2020,"Trade, Transportation, and Utilities",0.770965469
+7,July-2020,"Trade, Transportation, and Utilities",0.981161695
+8,August-2020,"Trade, Transportation, and Utilities",0.950120676
+9,September-2020,"Trade, Transportation, and Utilities",0.894819466
+10,October-2020,"Trade, Transportation, and Utilities",0.888971684
+11,November-2020,"Trade, Transportation, and Utilities",1.020729685
+12,December-2020,"Trade, Transportation, and Utilities",1.033653846
+13,January-2021,"Trade, Transportation, and Utilities",1.100398406
+14,February-2021,"Trade, Transportation, and Utilities",1.19658814
+15,March-2021,"Trade, Transportation, and Utilities",1.312598425
+16,April-2021,"Trade, Transportation, and Utilities",1.35446906
+17,May-2021,"Trade, Transportation, and Utilities",1.297692308
+18,June-2021,"Trade, Transportation, and Utilities",1.285714286
+19,July-2021,"Trade, Transportation, and Utilities",1.406226835
+20,August-2021,"Trade, Transportation, and Utilities",1.460202605
+21,September-2021,"Trade, Transportation, and Utilities",1.419213974
+22,October-2021,"Trade, Transportation, and Utilities",1.453471196
+23,November-2021,"Trade, Transportation, and Utilities",1.36059744
+24,December-2021,"Trade, Transportation, and Utilities",1.410312273

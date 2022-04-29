@@ -1,0 +1,1201 @@
+﻿obs,month,name,value
+1,Jan-12,Other Services,0.605263158
+2,Feb-12,Other Services,0.844311377
+3,Mar-12,Other Services,0.747252747
+4,Apr-12,Other Services,0.842639594
+5,May-12,Other Services,0.833333333
+6,Jun-12,Other Services,0.859550562
+7,Jul-12,Other Services,0.655172414
+8,Aug-12,Other Services,0.43315508
+9,Sep-12,Other Services,0.735449735
+10,Oct-12,Other Services,0.920634921
+11,Nov-12,Other Services,0.586363636
+12,Dec-12,Other Services,0.668449198
+13,Jan-13,Other Services,0.832432432
+14,Feb-13,Other Services,0.575129534
+15,Mar-13,Other Services,0.729357798
+16,Apr-13,Other Services,0.628865979
+17,May-13,Other Services,0.862745098
+18,Jun-13,Other Services,0.833333333
+19,Jul-13,Other Services,0.845303867
+20,Aug-13,Other Services,0.556756757
+21,Sep-13,Other Services,0.983146067
+22,Oct-13,Other Services,0.95480226
+23,Nov-13,Other Services,0.825842697
+24,Dec-13,Other Services,0.883495146
+25,Jan-14,Other Services,0.74
+26,Feb-14,Other Services,0.787234043
+27,Mar-14,Other Services,0.627218935
+28,Apr-14,Other Services,0.84
+29,May-14,Other Services,0.756613757
+30,Jun-14,Other Services,0.718390805
+31,Jul-14,Other Services,0.731958763
+32,Aug-14,Other Services,1.026455026
+33,Sep-14,Other Services,0.858757062
+34,Oct-14,Other Services,0.942408377
+35,Nov-14,Other Services,0.866995074
+36,Dec-14,Other Services,0.938888889
+37,Jan-15,Other Services,0.984210526
+38,Feb-15,Other Services,0.711297071
+39,Mar-15,Other Services,0.880382775
+40,Apr-15,Other Services,0.824742268
+41,May-15,Other Services,0.826732673
+42,Jun-15,Other Services,0.849557522
+43,Jul-15,Other Services,0.9
+44,Aug-15,Other Services,1.04040404
+45,Sep-15,Other Services,0.831111111
+46,Oct-15,Other Services,0.899038462
+47,Nov-15,Other Services,0.752688172
+48,Dec-15,Other Services,0.95412844
+49,Jan-16,Other Services,1.229050279
+50,Feb-16,Other Services,1.116504854
+51,Mar-16,Other Services,1
+52,Apr-16,Other Services,1.541436464
+53,May-16,Other Services,1.011976048
+54,Jun-16,Other Services,0.926724138
+55,Jul-16,Other Services,1.262195122
+56,Aug-16,Other Services,1.289772727
+57,Sep-16,Other Services,0.980099502
+58,Oct-16,Other Services,1.062146893
+59,Nov-16,Other Services,1.009345794
+60,Dec-16,Other Services,1.294736842
+61,Jan-17,Other Services,1
+62,Feb-17,Other Services,1.125
+63,Mar-17,Other Services,1.423076923
+64,Apr-17,Other Services,1.639130435
+65,May-17,Other Services,1.200956938
+66,Jun-17,Other Services,1.135746606
+67,Jul-17,Other Services,1.384297521
+68,Aug-17,Other Services,1.045833333
+69,Sep-17,Other Services,1.45049505
+70,Oct-17,Other Services,1.157446809
+71,Nov-17,Other Services,1.258706468
+72,Dec-17,Other Services,0.845454545
+73,Jan-18,Other Services,1.034313725
+74,Feb-18,Other Services,1.234042553
+75,Mar-18,Other Services,1.032258065
+76,Apr-18,Other Services,1.044843049
+77,May-18,Other Services,1.046218487
+78,Jun-18,Other Services,1.166666667
+79,Jul-18,Other Services,1.160621762
+80,Aug-18,Other Services,1.048034934
+81,Sep-18,Other Services,1.077272727
+82,Oct-18,Other Services,1.32735426
+83,Nov-18,Other Services,1.068548387
+84,Dec-18,Other Services,1.251162791
+85,Jan-19,Other Services,0.769230769
+86,Feb-19,Other Services,1.197916667
+87,Mar-19,Other Services,1.183962264
+88,Apr-19,Other Services,1.130630631
+89,May-19,Other Services,1.235023041
+90,Jun-19,Other Services,1.104803493
+91,Jul-19,Other Services,1.189189189
+92,Aug-19,Other Services,1.153153153
+93,Sep-19,Other Services,1.27
+94,Oct-19,Other Services,1.236363636
+95,Nov-19,Other Services,1.088669951
+96,Dec-19,Other Services,1.05982906
+97,Jan-20,Other Services,1.155172414
+98,Feb-20,Other Services,0.907079646
+99,Mar-20,Other Services,1.034246575
+100,Apr-20,Other Services,0.906040268
+101,May-20,Other Services,0.30318258
+102,Jun-20,Other Services,0.687664042
+103,Jul-20,Other Services,1.373737374
+104,Aug-20,Other Services,1.0456621
+105,Sep-20,Other Services,0.971544715
+106,Oct-20,Other Services,1.004166667
+107,Nov-20,Other Services,1.033175355
+108,Dec-20,Other Services,1.153409091
+109,Jan-21,Other Services,1.135514019
+110,Feb-21,Other Services,1.151639344
+111,Mar-21,Other Services,1.100456621
+112,Apr-21,Other Services,1.553648069
+113,May-21,Other Services,2.108597285
+114,Jun-21,Other Services,1.619834711
+115,Jul-21,Other Services,1.76171875
+116,Aug-21,Other Services,1.99543379
+117,Sep-21,Other Services,1.742307692
+118,Oct-21,Other Services,1.927350427
+119,Nov-21,Other Services,1.660305344
+120,Dec-21,Other Services,1.4140625
+1,Jan-12,Leisure and Hospitality,0.583762887
+2,Feb-12,Leisure and Hospitality,0.49156939
+3,Mar-12,Leisure and Hospitality,0.519767442
+4,Apr-12,Leisure and Hospitality,0.634564644
+5,May-12,Leisure and Hospitality,0.621438263
+6,Jun-12,Leisure and Hospitality,0.668975069
+7,Jul-12,Leisure and Hospitality,0.650265957
+8,Aug-12,Leisure and Hospitality,0.527431421
+9,Sep-12,Leisure and Hospitality,0.584487535
+10,Oct-12,Leisure and Hospitality,0.633858268
+11,Nov-12,Leisure and Hospitality,0.693055556
+12,Dec-12,Leisure and Hospitality,0.590909091
+13,Jan-13,Leisure and Hospitality,0.583850932
+14,Feb-13,Leisure and Hospitality,0.656565657
+15,Mar-13,Leisure and Hospitality,0.638509317
+16,Apr-13,Leisure and Hospitality,0.556461001
+17,May-13,Leisure and Hospitality,0.578298397
+18,Jun-13,Leisure and Hospitality,0.603703704
+19,Jul-13,Leisure and Hospitality,0.63510101
+20,Aug-13,Leisure and Hospitality,0.67746114
+21,Sep-13,Leisure and Hospitality,0.665859564
+22,Oct-13,Leisure and Hospitality,0.672478207
+23,Nov-13,Leisure and Hospitality,0.688212928
+24,Dec-13,Leisure and Hospitality,0.73125
+25,Jan-14,Leisure and Hospitality,0.714628297
+26,Feb-14,Leisure and Hospitality,0.654161782
+27,Mar-14,Leisure and Hospitality,0.68547419
+28,Apr-14,Leisure and Hospitality,0.766203704
+29,May-14,Leisure and Hospitality,0.78713969
+30,Jun-14,Leisure and Hospitality,0.741474147
+31,Jul-14,Leisure and Hospitality,0.719178082
+32,Aug-14,Leisure and Hospitality,0.832349469
+33,Sep-14,Leisure and Hospitality,0.770402612
+34,Oct-14,Leisure and Hospitality,0.751399776
+35,Nov-14,Leisure and Hospitality,0.693406593
+36,Dec-14,Leisure and Hospitality,0.75534188
+37,Jan-15,Leisure and Hospitality,0.882288229
+38,Feb-15,Leisure and Hospitality,0.809061489
+39,Mar-15,Leisure and Hospitality,0.782372144
+40,Apr-15,Leisure and Hospitality,0.755508919
+41,May-15,Leisure and Hospitality,0.727743271
+42,Jun-15,Leisure and Hospitality,0.725490196
+43,Jul-15,Leisure and Hospitality,0.796858639
+44,Aug-15,Leisure and Hospitality,0.684055118
+45,Sep-15,Leisure and Hospitality,0.693897638
+46,Oct-15,Leisure and Hospitality,0.774925962
+47,Nov-15,Leisure and Hospitality,0.743914314
+48,Dec-15,Leisure and Hospitality,0.714832536
+49,Jan-16,Leisure and Hospitality,0.794764398
+50,Feb-16,Leisure and Hospitality,0.721904762
+51,Mar-16,Leisure and Hospitality,0.802133851
+52,Apr-16,Leisure and Hospitality,0.757696127
+53,May-16,Leisure and Hospitality,0.717874396
+54,Jun-16,Leisure and Hospitality,0.760536398
+55,Jul-16,Leisure and Hospitality,0.732817038
+56,Aug-16,Leisure and Hospitality,0.769894535
+57,Sep-16,Leisure and Hospitality,0.765803109
+58,Oct-16,Leisure and Hospitality,0.781089414
+59,Nov-16,Leisure and Hospitality,0.719661336
+60,Dec-16,Leisure and Hospitality,0.734052993
+61,Jan-17,Leisure and Hospitality,0.701550388
+62,Feb-17,Leisure and Hospitality,0.885601578
+63,Mar-17,Leisure and Hospitality,0.739387957
+64,Apr-17,Leisure and Hospitality,0.825661117
+65,May-17,Leisure and Hospitality,0.835480674
+66,Jun-17,Leisure and Hospitality,0.823529412
+67,Jul-17,Leisure and Hospitality,0.849112426
+68,Aug-17,Leisure and Hospitality,0.896449704
+69,Sep-17,Leisure and Hospitality,0.782178218
+70,Oct-17,Leisure and Hospitality,0.778864971
+71,Nov-17,Leisure and Hospitality,0.852283771
+72,Dec-17,Leisure and Hospitality,0.890231621
+73,Jan-18,Leisure and Hospitality,0.912228797
+74,Feb-18,Leisure and Hospitality,0.871455577
+75,Mar-18,Leisure and Hospitality,0.886015326
+76,Apr-18,Leisure and Hospitality,0.906755471
+77,May-18,Leisure and Hospitality,0.865886589
+78,Jun-18,Leisure and Hospitality,1.028846154
+79,Jul-18,Leisure and Hospitality,0.924408015
+80,Aug-18,Leisure and Hospitality,0.954545455
+81,Sep-18,Leisure and Hospitality,1.014312977
+82,Oct-18,Leisure and Hospitality,0.917944094
+83,Nov-18,Leisure and Hospitality,0.945996276
+84,Dec-18,Leisure and Hospitality,1.054807692
+85,Jan-19,Leisure and Hospitality,1
+86,Feb-19,Leisure and Hospitality,0.924908425
+87,Mar-19,Leisure and Hospitality,0.925250684
+88,Apr-19,Leisure and Hospitality,0.867126833
+89,May-19,Leisure and Hospitality,0.944962687
+90,Jun-19,Leisure and Hospitality,0.832007073
+91,Jul-19,Leisure and Hospitality,0.84676705
+92,Aug-19,Leisure and Hospitality,0.839473684
+93,Sep-19,Leisure and Hospitality,0.881282496
+94,Oct-19,Leisure and Hospitality,0.891071429
+95,Nov-19,Leisure and Hospitality,0.897506925
+96,Dec-19,Leisure and Hospitality,0.81826087
+97,Jan-20,Leisure and Hospitality,0.83245614
+98,Feb-20,Leisure and Hospitality,0.868940754
+99,Mar-20,Leisure and Hospitality,0.951255539
+100,Apr-20,Leisure and Hospitality,0.888888889
+101,May-20,Leisure and Hospitality,0.373376623
+102,Jun-20,Leisure and Hospitality,0.4345
+103,Jul-20,Leisure and Hospitality,0.605805959
+104,Aug-20,Leisure and Hospitality,0.769628099
+105,Sep-20,Leisure and Hospitality,0.744053283
+106,Oct-20,Leisure and Hospitality,0.734497817
+107,Nov-20,Leisure and Hospitality,0.783410138
+108,Dec-20,Leisure and Hospitality,0.928571429
+109,Jan-21,Leisure and Hospitality,0.782128514
+110,Feb-21,Leisure and Hospitality,0.861135371
+111,Mar-21,Leisure and Hospitality,0.969378828
+112,Apr-21,Leisure and Hospitality,0.980408163
+113,May-21,Leisure and Hospitality,1.086956522
+114,Jun-21,Leisure and Hospitality,1.2143446
+115,Jul-21,Leisure and Hospitality,1.29089444
+116,Aug-21,Leisure and Hospitality,1.392220421
+117,Sep-21,Leisure and Hospitality,1.29352397
+118,Oct-21,Leisure and Hospitality,1.384223919
+119,Nov-21,Leisure and Hospitality,1.370065789
+120,Dec-21,Leisure and Hospitality,1.669463087
+1,Jan-12,Education and Health Services,1.26443203
+2,Feb-12,Education and Health Services,1.207446809
+3,Mar-12,Education and Health Services,1.3125
+4,Apr-12,Education and Health Services,1.376518219
+5,May-12,Education and Health Services,1.316363636
+6,Jun-12,Education and Health Services,1.454198473
+7,Jul-12,Education and Health Services,1.322330097
+8,Aug-12,Education and Health Services,1.287937743
+9,Sep-12,Education and Health Services,1.413385827
+10,Oct-12,Education and Health Services,1.348659004
+11,Nov-12,Education and Health Services,1.435546875
+12,Dec-12,Education and Health Services,1.338345865
+13,Jan-13,Education and Health Services,1.162962963
+14,Feb-13,Education and Health Services,1.330769231
+15,Mar-13,Education and Health Services,1.303473492
+16,Apr-13,Education and Health Services,1.253940455
+17,May-13,Education and Health Services,1.182758621
+18,Jun-13,Education and Health Services,1.427974948
+19,Jul-13,Education and Health Services,1.162454874
+20,Aug-13,Education and Health Services,1.280612245
+21,Sep-13,Education and Health Services,1.21981982
+22,Oct-13,Education and Health Services,1.323643411
+23,Nov-13,Education and Health Services,1.230483271
+24,Dec-13,Education and Health Services,1.121597096
+25,Jan-14,Education and Health Services,1.252220249
+26,Feb-14,Education and Health Services,1.354898336
+27,Mar-14,Education and Health Services,1.301886792
+28,Apr-14,Education and Health Services,1.246551724
+29,May-14,Education and Health Services,1.490875912
+30,Jun-14,Education and Health Services,1.540834846
+31,Jul-14,Education and Health Services,1.488013699
+32,Aug-14,Education and Health Services,1.805825243
+33,Sep-14,Education and Health Services,1.326836582
+34,Oct-14,Education and Health Services,1.485
+35,Nov-14,Education and Health Services,1.386481802
+36,Dec-14,Education and Health Services,1.56053068
+37,Jan-15,Education and Health Services,1.527454243
+38,Feb-15,Education and Health Services,1.4784689
+39,Mar-15,Education and Health Services,1.491776316
+40,Apr-15,Education and Health Services,1.656765677
+41,May-15,Education and Health Services,1.616393443
+42,Jun-15,Education and Health Services,1.691919192
+43,Jul-15,Education and Health Services,1.858730159
+44,Aug-15,Education and Health Services,1.685575365
+45,Sep-15,Education and Health Services,1.669767442
+46,Oct-15,Education and Health Services,1.627836611
+47,Nov-15,Education and Health Services,1.655639098
+48,Dec-15,Education and Health Services,1.638461538
+49,Jan-16,Education and Health Services,2.008517888
+50,Feb-16,Education and Health Services,1.569230769
+51,Mar-16,Education and Health Services,1.740322581
+52,Apr-16,Education and Health Services,1.753968254
+53,May-16,Education and Health Services,1.707620529
+54,Jun-16,Education and Health Services,1.597014925
+55,Jul-16,Education and Health Services,1.749608764
+56,Aug-16,Education and Health Services,1.601823708
+57,Sep-16,Education and Health Services,1.694656489
+58,Oct-16,Education and Health Services,1.943485086
+59,Nov-16,Education and Health Services,1.821917808
+60,Dec-16,Education and Health Services,1.854714065
+61,Jan-17,Education and Health Services,1.8170347
+62,Feb-17,Education and Health Services,1.97133758
+63,Mar-17,Education and Health Services,1.689759036
+64,Apr-17,Education and Health Services,1.663663664
+65,May-17,Education and Health Services,1.626292467
+66,Jun-17,Education and Health Services,1.806800618
+67,Jul-17,Education and Health Services,1.692532943
+68,Aug-17,Education and Health Services,1.686416185
+69,Sep-17,Education and Health Services,1.731117825
+70,Oct-17,Education and Health Services,1.687964339
+71,Nov-17,Education and Health Services,1.599427754
+72,Dec-17,Education and Health Services,1.707782673
+73,Jan-18,Education and Health Services,1.70544919
+74,Feb-18,Education and Health Services,1.776119403
+75,Mar-18,Education and Health Services,1.764028777
+76,Apr-18,Education and Health Services,1.830584708
+77,May-18,Education and Health Services,1.658402204
+78,Jun-18,Education and Health Services,1.748261474
+79,Jul-18,Education and Health Services,1.767908309
+80,Aug-18,Education and Health Services,1.723140496
+81,Sep-18,Education and Health Services,1.833810888
+82,Oct-18,Education and Health Services,1.680706522
+83,Nov-18,Education and Health Services,1.697831978
+84,Dec-18,Education and Health Services,1.704749679
+85,Jan-19,Education and Health Services,1.799468792
+86,Feb-19,Education and Health Services,1.658536585
+87,Mar-19,Education and Health Services,1.847708895
+88,Apr-19,Education and Health Services,1.86431479
+89,May-19,Education and Health Services,2.039039039
+90,Jun-19,Education and Health Services,1.937406855
+91,Jul-19,Education and Health Services,1.739597315
+92,Aug-19,Education and Health Services,1.916305916
+93,Sep-19,Education and Health Services,1.666214383
+94,Oct-19,Education and Health Services,1.785419532
+95,Nov-19,Education and Health Services,1.801097394
+96,Dec-19,Education and Health Services,1.702592087
+97,Jan-20,Education and Health Services,1.67
+98,Feb-20,Education and Health Services,1.616368286
+99,Mar-20,Education and Health Services,1.801515152
+100,Apr-20,Education and Health Services,1.790566038
+101,May-20,Education and Health Services,0.834605598
+102,Jun-20,Education and Health Services,1.169329073
+103,Jul-20,Education and Health Services,1.404205607
+104,Aug-20,Education and Health Services,1.675070028
+105,Sep-20,Education and Health Services,1.696551724
+106,Oct-20,Education and Health Services,1.819034853
+107,Nov-20,Education and Health Services,1.835180055
+108,Dec-20,Education and Health Services,1.785413745
+109,Jan-21,Education and Health Services,2.016369048
+110,Feb-21,Education and Health Services,2.185135135
+111,Mar-21,Education and Health Services,1.964613368
+112,Apr-21,Education and Health Services,2.011734029
+113,May-21,Education and Health Services,2.232984293
+114,Jun-21,Education and Health Services,2.221935484
+115,Jul-21,Education and Health Services,2.475195822
+116,Aug-21,Education and Health Services,2.286259542
+117,Sep-21,Education and Health Services,2.3757503
+118,Oct-21,Education and Health Services,2.53874092
+119,Nov-21,Education and Health Services,2.450980392
+120,Dec-21,Education and Health Services,2.585106383
+1,Jan-12,Professional and Business Services,1.004237288
+2,Feb-12,Professional and Business Services,0.738142292
+3,Mar-12,Professional and Business Services,0.885714286
+4,Apr-12,Professional and Business Services,0.84463895
+5,May-12,Professional and Business Services,0.759878419
+6,Jun-12,Professional and Business Services,0.854304636
+7,Jul-12,Professional and Business Services,0.852534562
+8,Aug-12,Professional and Business Services,0.884848485
+9,Sep-12,Professional and Business Services,0.821301775
+10,Oct-12,Professional and Business Services,0.85600907
+11,Nov-12,Professional and Business Services,0.814130435
+12,Dec-12,Professional and Business Services,0.768467475
+13,Jan-13,Professional and Business Services,0.882821388
+14,Feb-13,Professional and Business Services,0.878190255
+15,Mar-13,Professional and Business Services,0.862068966
+16,Apr-13,Professional and Business Services,0.820043103
+17,May-13,Professional and Business Services,0.860262009
+18,Jun-13,Professional and Business Services,0.783472803
+19,Jul-13,Professional and Business Services,0.719008264
+20,Aug-13,Professional and Business Services,0.800197824
+21,Sep-13,Professional and Business Services,0.779854621
+22,Oct-13,Professional and Business Services,0.949015064
+23,Nov-13,Professional and Business Services,0.785036881
+24,Dec-13,Professional and Business Services,0.80625
+25,Jan-14,Professional and Business Services,0.723857868
+26,Feb-14,Professional and Business Services,0.85483871
+27,Mar-14,Professional and Business Services,0.769920319
+28,Apr-14,Professional and Business Services,0.842
+29,May-14,Professional and Business Services,0.924487594
+30,Jun-14,Professional and Business Services,0.892787524
+31,Jul-14,Professional and Business Services,0.860663507
+32,Aug-14,Professional and Business Services,0.902894491
+33,Sep-14,Professional and Business Services,0.860146252
+34,Oct-14,Professional and Business Services,0.886005561
+35,Nov-14,Professional and Business Services,1.03965702
+36,Dec-14,Professional and Business Services,1
+37,Jan-15,Professional and Business Services,0.993236715
+38,Feb-15,Professional and Business Services,1
+39,Mar-15,Professional and Business Services,1.023234201
+40,Apr-15,Professional and Business Services,1.131506849
+41,May-15,Professional and Business Services,1.156367041
+42,Jun-15,Professional and Business Services,1.07357212
+43,Jul-15,Professional and Business Services,1.133531157
+44,Aug-15,Professional and Business Services,1.050048123
+45,Sep-15,Professional and Business Services,1.024930748
+46,Oct-15,Professional and Business Services,1.117050691
+47,Nov-15,Professional and Business Services,1.152466368
+48,Dec-15,Professional and Business Services,0.985209532
+49,Jan-16,Professional and Business Services,1.103622578
+50,Feb-16,Professional and Business Services,1.110512129
+51,Mar-16,Professional and Business Services,1.322841727
+52,Apr-16,Professional and Business Services,0.956244303
+53,May-16,Professional and Business Services,1.061131387
+54,Jun-16,Professional and Business Services,1.068224299
+55,Jul-16,Professional and Business Services,1.051390059
+56,Aug-16,Professional and Business Services,1
+57,Sep-16,Professional and Business Services,1.099543379
+58,Oct-16,Professional and Business Services,0.931882687
+59,Nov-16,Professional and Business Services,1.099462366
+60,Dec-16,Professional and Business Services,0.978280543
+61,Jan-17,Professional and Business Services,0.873889876
+62,Feb-17,Professional and Business Services,0.934597156
+63,Mar-17,Professional and Business Services,0.964627151
+64,Apr-17,Professional and Business Services,1.031527094
+65,May-17,Professional and Business Services,0.919854281
+66,Jun-17,Professional and Business Services,0.9896
+67,Jul-17,Professional and Business Services,0.957662997
+68,Aug-17,Professional and Business Services,0.958549223
+69,Sep-17,Professional and Business Services,0.972052402
+70,Oct-17,Professional and Business Services,1.125957447
+71,Nov-17,Professional and Business Services,0.928186715
+72,Dec-17,Professional and Business Services,0.911737089
+73,Jan-18,Professional and Business Services,1.024839006
+74,Feb-18,Professional and Business Services,0.947639485
+75,Mar-18,Professional and Business Services,1.011904762
+76,Apr-18,Professional and Business Services,1.073712256
+77,May-18,Professional and Business Services,1.04757859
+78,Jun-18,Professional and Business Services,1.045757072
+79,Jul-18,Professional and Business Services,1.112688554
+80,Aug-18,Professional and Business Services,1.185983827
+81,Sep-18,Professional and Business Services,1.206708976
+82,Oct-18,Professional and Business Services,1.155405405
+83,Nov-18,Professional and Business Services,1.183421517
+84,Dec-18,Professional and Business Services,1.183549784
+85,Jan-19,Professional and Business Services,1.295561851
+86,Feb-19,Professional and Business Services,1.175767918
+87,Mar-19,Professional and Business Services,1.139949109
+88,Apr-19,Professional and Business Services,0.939297125
+89,May-19,Professional and Business Services,1.119860017
+90,Jun-19,Professional and Business Services,1.152252252
+91,Jul-19,Professional and Business Services,1.086695279
+92,Aug-19,Professional and Business Services,1.112576957
+93,Sep-19,Professional and Business Services,1.061962134
+94,Oct-19,Professional and Business Services,1.100991885
+95,Nov-19,Professional and Business Services,1.054973822
+96,Dec-19,Professional and Business Services,1.084201389
+97,Jan-20,Professional and Business Services,1.098106713
+98,Feb-20,Professional and Business Services,1.154537287
+99,Mar-20,Professional and Business Services,0.965638767
+100,Apr-20,Professional and Business Services,0.979118329
+101,May-20,Professional and Business Services,0.914744233
+102,Jun-20,Professional and Business Services,0.869118905
+103,Jul-20,Professional and Business Services,1.025022341
+104,Aug-20,Professional and Business Services,0.993960311
+105,Sep-20,Professional and Business Services,1.086236934
+106,Oct-20,Professional and Business Services,1.127845884
+107,Nov-20,Professional and Business Services,1.113934426
+108,Dec-20,Professional and Business Services,1.291772689
+109,Jan-21,Professional and Business Services,1.226351351
+110,Feb-21,Professional and Business Services,1.2200489
+111,Mar-21,Professional and Business Services,1.308072488
+112,Apr-21,Professional and Business Services,1.437229437
+113,May-21,Professional and Business Services,1.493955095
+114,Jun-21,Professional and Business Services,1.462171053
+115,Jul-21,Professional and Business Services,1.460377358
+116,Aug-21,Professional and Business Services,1.571428571
+117,Sep-21,Professional and Business Services,1.453968254
+118,Oct-21,Professional and Business Services,1.559541985
+119,Nov-21,Professional and Business Services,1.47027027
+120,Dec-21,Professional and Business Services,1.667491749
+1,Jan-12,Financial Activities,1.479041916
+2,Feb-12,Financial Activities,1.09039548
+3,Mar-12,Financial Activities,1.336956522
+4,Apr-12,Financial Activities,1.07106599
+5,May-12,Financial Activities,1.232044199
+6,Jun-12,Financial Activities,1.255434783
+7,Jul-12,Financial Activities,1.398773006
+8,Aug-12,Financial Activities,1.319587629
+9,Sep-12,Financial Activities,1.507537688
+10,Oct-12,Financial Activities,1.312820513
+11,Nov-12,Financial Activities,1.198067633
+12,Dec-12,Financial Activities,1.5
+13,Jan-13,Financial Activities,1.041284404
+14,Feb-13,Financial Activities,1.442307692
+15,Mar-13,Financial Activities,1.755434783
+16,Apr-13,Financial Activities,1.340425532
+17,May-13,Financial Activities,1.388392857
+18,Jun-13,Financial Activities,1.647058824
+19,Jul-13,Financial Activities,1.525114155
+20,Aug-13,Financial Activities,1.206896552
+21,Sep-13,Financial Activities,1.124444444
+22,Oct-13,Financial Activities,1.347150259
+23,Nov-13,Financial Activities,1.156756757
+24,Dec-13,Financial Activities,1.375
+25,Jan-14,Financial Activities,1.314465409
+26,Feb-14,Financial Activities,1.370165746
+27,Mar-14,Financial Activities,1.338383838
+28,Apr-14,Financial Activities,1.511111111
+29,May-14,Financial Activities,1.513227513
+30,Jun-14,Financial Activities,1.855614973
+31,Jul-14,Financial Activities,1.515306122
+32,Aug-14,Financial Activities,1.706467662
+33,Sep-14,Financial Activities,1.341346154
+34,Oct-14,Financial Activities,2.102272727
+35,Nov-14,Financial Activities,1.253218884
+36,Dec-14,Financial Activities,1.339622642
+37,Jan-15,Financial Activities,1.512077295
+38,Feb-15,Financial Activities,2.10625
+39,Mar-15,Financial Activities,1.442708333
+40,Apr-15,Financial Activities,1.76076555
+41,May-15,Financial Activities,1.77486911
+42,Jun-15,Financial Activities,1.386138614
+43,Jul-15,Financial Activities,1.793814433
+44,Aug-15,Financial Activities,1.758241758
+45,Sep-15,Financial Activities,1.595959596
+46,Oct-15,Financial Activities,1.587378641
+47,Nov-15,Financial Activities,1.686915888
+48,Dec-15,Financial Activities,1.890410959
+49,Jan-16,Financial Activities,1.573991031
+50,Feb-16,Financial Activities,1.546296296
+51,Mar-16,Financial Activities,1.495412844
+52,Apr-16,Financial Activities,1.677884615
+53,May-16,Financial Activities,1.789189189
+54,Jun-16,Financial Activities,1.6
+55,Jul-16,Financial Activities,1.838709677
+56,Aug-16,Financial Activities,1.860824742
+57,Sep-16,Financial Activities,1.940217391
+58,Oct-16,Financial Activities,1.495192308
+59,Nov-16,Financial Activities,1.92972973
+60,Dec-16,Financial Activities,1.980099502
+61,Jan-17,Financial Activities,1.695652174
+62,Feb-17,Financial Activities,1.85483871
+63,Mar-17,Financial Activities,1.560869565
+64,Apr-17,Financial Activities,2.140776699
+65,May-17,Financial Activities,1.617777778
+66,Jun-17,Financial Activities,1.804761905
+67,Jul-17,Financial Activities,1.691943128
+68,Aug-17,Financial Activities,1.450236967
+69,Sep-17,Financial Activities,2.272727273
+70,Oct-17,Financial Activities,1.771551724
+71,Nov-17,Financial Activities,1.9375
+72,Dec-17,Financial Activities,1.861538462
+73,Jan-18,Financial Activities,1.798165138
+74,Feb-18,Financial Activities,1.980676329
+75,Mar-18,Financial Activities,2.157894737
+76,Apr-18,Financial Activities,1.609375
+77,May-18,Financial Activities,1.792270531
+78,Jun-18,Financial Activities,1.646017699
+79,Jul-18,Financial Activities,2.112745098
+80,Aug-18,Financial Activities,1.985576923
+81,Sep-18,Financial Activities,1.639484979
+82,Oct-18,Financial Activities,2.135416667
+83,Nov-18,Financial Activities,2.014354067
+84,Dec-18,Financial Activities,1.64953271
+85,Jan-19,Financial Activities,2.183783784
+86,Feb-19,Financial Activities,1.773869347
+87,Mar-19,Financial Activities,1.854166667
+88,Apr-19,Financial Activities,1.57079646
+89,May-19,Financial Activities,1.693333333
+90,Jun-19,Financial Activities,1.727272727
+91,Jul-19,Financial Activities,1.488
+92,Aug-19,Financial Activities,1.596638655
+93,Sep-19,Financial Activities,1.628820961
+94,Oct-19,Financial Activities,1.935779817
+95,Nov-19,Financial Activities,1.524793388
+96,Dec-19,Financial Activities,1.475336323
+97,Jan-20,Financial Activities,1.949541284
+98,Feb-20,Financial Activities,1.723140496
+99,Mar-20,Financial Activities,1.502164502
+100,Apr-20,Financial Activities,1.698113208
+101,May-20,Financial Activities,1.5
+102,Jun-20,Financial Activities,1.703517588
+103,Jul-20,Financial Activities,1.207692308
+104,Aug-20,Financial Activities,1.281385281
+105,Sep-20,Financial Activities,1.253012048
+106,Oct-20,Financial Activities,1.297959184
+107,Nov-20,Financial Activities,1.338095238
+108,Dec-20,Financial Activities,1.439613527
+109,Jan-21,Financial Activities,1.346341463
+110,Feb-21,Financial Activities,1.557788945
+111,Mar-21,Financial Activities,1.634146341
+112,Apr-21,Financial Activities,1.990697674
+113,May-21,Financial Activities,1.922330097
+114,Jun-21,Financial Activities,1.715686275
+115,Jul-21,Financial Activities,2.186234818
+116,Aug-21,Financial Activities,2.262135922
+117,Sep-21,Financial Activities,1.510344828
+118,Oct-21,Financial Activities,2.041284404
+119,Nov-21,Financial Activities,2.111587983
+120,Dec-21,Financial Activities,2.052401747
+1,Jan-12,Information,1.62962963
+2,Feb-12,Information,1.338028169
+3,Mar-12,Information,1.492537313
+4,Apr-12,Information,1.529411765
+5,May-12,Information,1.166666667
+6,Jun-12,Information,1.909090909
+7,Jul-12,Information,1.470588235
+8,Aug-12,Information,1.109756098
+9,Sep-12,Information,1.610169492
+10,Oct-12,Information,1.365079365
+11,Nov-12,Information,1.444444444
+12,Dec-12,Information,1.28358209
+13,Jan-13,Information,1.241935484
+14,Feb-13,Information,1.270588235
+15,Mar-13,Information,1.98
+16,Apr-13,Information,0.942857143
+17,May-13,Information,1.24691358
+18,Jun-13,Information,1.168539326
+19,Jul-13,Information,1.153846154
+20,Aug-13,Information,0.855421687
+21,Sep-13,Information,1.063829787
+22,Oct-13,Information,1.524390244
+23,Nov-13,Information,1.461538462
+24,Dec-13,Information,1.345238095
+25,Jan-14,Information,1.21978022
+26,Feb-14,Information,1.320987654
+27,Mar-14,Information,1.153846154
+28,Apr-14,Information,1.425
+29,May-14,Information,1.527027027
+30,Jun-14,Information,1.278481013
+31,Jul-14,Information,1.244444444
+32,Aug-14,Information,1.423076923
+33,Sep-14,Information,1.391891892
+34,Oct-14,Information,1.061728395
+35,Nov-14,Information,1.177570093
+36,Dec-14,Information,1.35443038
+37,Jan-15,Information,1.3875
+38,Feb-15,Information,1.666666667
+39,Mar-15,Information,1.358024691
+40,Apr-15,Information,1.297619048
+41,May-15,Information,1.238636364
+42,Jun-15,Information,1.4125
+43,Jul-15,Information,1.524390244
+44,Aug-15,Information,1.414634146
+45,Sep-15,Information,1.414634146
+46,Oct-15,Information,1.258426966
+47,Nov-15,Information,0.897435897
+48,Dec-15,Information,1.48
+49,Jan-16,Information,1.261363636
+50,Feb-16,Information,1.093023256
+51,Mar-16,Information,1.171052632
+52,Apr-16,Information,0.913043478
+53,May-16,Information,1.583333333
+54,Jun-16,Information,1.058823529
+55,Jul-16,Information,1.012658228
+56,Aug-16,Information,1.012820513
+57,Sep-16,Information,1.275
+58,Oct-16,Information,1.08974359
+59,Nov-16,Information,0.964705882
+60,Dec-16,Information,0.987804878
+61,Jan-17,Information,0.988764045
+62,Feb-17,Information,0.853658537
+63,Mar-17,Information,1.116883117
+64,Apr-17,Information,1.5
+65,May-17,Information,1.41025641
+66,Jun-17,Information,1.417721519
+67,Jul-17,Information,1.166666667
+68,Aug-17,Information,1.333333333
+69,Sep-17,Information,1.092783505
+70,Oct-17,Information,1.011111111
+71,Nov-17,Information,1.102272727
+72,Dec-17,Information,1.302083333
+73,Jan-18,Information,1.376344086
+74,Feb-18,Information,1.450549451
+75,Mar-18,Information,1.402061856
+76,Apr-18,Information,1.891304348
+77,May-18,Information,1.329896907
+78,Jun-18,Information,1.516483516
+79,Jul-18,Information,1.69047619
+80,Aug-18,Information,1.611111111
+81,Sep-18,Information,1.310344828
+82,Oct-18,Information,1.651162791
+83,Nov-18,Information,1.418367347
+84,Dec-18,Information,1.602409639
+85,Jan-19,Information,1.651162791
+86,Feb-19,Information,1.574712644
+87,Mar-19,Information,1.504854369
+88,Apr-19,Information,1.14893617
+89,May-19,Information,1.222222222
+90,Jun-19,Information,1.414893617
+91,Jul-19,Information,1.565656566
+92,Aug-19,Information,1.391304348
+93,Sep-19,Information,1.849462366
+94,Oct-19,Information,1.484536082
+95,Nov-19,Information,1.606741573
+96,Dec-19,Information,1.559139785
+97,Jan-20,Information,1.739726027
+98,Feb-20,Information,1.453608247
+99,Mar-20,Information,1.680555556
+100,Apr-20,Information,3.128205128
+101,May-20,Information,1.318181818
+102,Jun-20,Information,1.754385965
+103,Jul-20,Information,1.023529412
+104,Aug-20,Information,0.944444444
+105,Sep-20,Information,1.099009901
+106,Oct-20,Information,1.024793388
+107,Nov-20,Information,1.155555556
+108,Dec-20,Information,1.414634146
+109,Jan-21,Information,1.75
+110,Feb-21,Information,1.144329897
+111,Mar-21,Information,1.088235294
+112,Apr-21,Information,1.125
+113,May-21,Information,1.371428571
+114,Jun-21,Information,1.372727273
+115,Jul-21,Information,1.70754717
+116,Aug-21,Information,1.56779661
+117,Sep-21,Information,1.495652174
+118,Oct-21,Information,1.504201681
+119,Nov-21,Information,1.692982456
+120,Dec-21,Information,2.09009009
+1,Jan-12,"Trade, Transportation, and Utilities",0.762886598
+2,Feb-12,"Trade, Transportation, and Utilities",0.753201397
+3,Mar-12,"Trade, Transportation, and Utilities",0.784667418
+4,Apr-12,"Trade, Transportation, and Utilities",0.710762332
+5,May-12,"Trade, Transportation, and Utilities",0.697986577
+6,Jun-12,"Trade, Transportation, and Utilities",0.709641256
+7,Jul-12,"Trade, Transportation, and Utilities",0.77662037
+8,Aug-12,"Trade, Transportation, and Utilities",0.800861141
+9,Sep-12,"Trade, Transportation, and Utilities",0.87755102
+10,Oct-12,"Trade, Transportation, and Utilities",0.6030871
+11,Nov-12,"Trade, Transportation, and Utilities",0.764837626
+12,Dec-12,"Trade, Transportation, and Utilities",0.897091723
+13,Jan-13,"Trade, Transportation, and Utilities",0.826859046
+14,Feb-13,"Trade, Transportation, and Utilities",0.677115987
+15,Mar-13,"Trade, Transportation, and Utilities",0.895121951
+16,Apr-13,"Trade, Transportation, and Utilities",0.879558011
+17,May-13,"Trade, Transportation, and Utilities",0.890948746
+18,Jun-13,"Trade, Transportation, and Utilities",1.013605442
+19,Jul-13,"Trade, Transportation, and Utilities",0.796276013
+20,Aug-13,"Trade, Transportation, and Utilities",0.772956609
+21,Sep-13,"Trade, Transportation, and Utilities",0.825688073
+22,Oct-13,"Trade, Transportation, and Utilities",0.803921569
+23,Nov-13,"Trade, Transportation, and Utilities",0.788954635
+24,Dec-13,"Trade, Transportation, and Utilities",0.818452381
+25,Jan-14,"Trade, Transportation, and Utilities",0.863492063
+26,Feb-14,"Trade, Transportation, and Utilities",0.865877712
+27,Mar-14,"Trade, Transportation, and Utilities",0.927165354
+28,Apr-14,"Trade, Transportation, and Utilities",0.856502242
+29,May-14,"Trade, Transportation, and Utilities",0.860422406
+30,Jun-14,"Trade, Transportation, and Utilities",0.875114784
+31,Jul-14,"Trade, Transportation, and Utilities",0.858058608
+32,Aug-14,"Trade, Transportation, and Utilities",1.145631068
+33,Sep-14,"Trade, Transportation, and Utilities",0.870510397
+34,Oct-14,"Trade, Transportation, and Utilities",0.834215168
+35,Nov-14,"Trade, Transportation, and Utilities",0.797824116
+36,Dec-14,"Trade, Transportation, and Utilities",0.81411975
+37,Jan-15,"Trade, Transportation, and Utilities",0.899539171
+38,Feb-15,"Trade, Transportation, and Utilities",0.990662932
+39,Mar-15,"Trade, Transportation, and Utilities",0.821719457
+40,Apr-15,"Trade, Transportation, and Utilities",0.918994413
+41,May-15,"Trade, Transportation, and Utilities",0.907039711
+42,Jun-15,"Trade, Transportation, and Utilities",0.867753623
+43,Jul-15,"Trade, Transportation, and Utilities",1.134476534
+44,Aug-15,"Trade, Transportation, and Utilities",0.976392823
+45,Sep-15,"Trade, Transportation, and Utilities",0.984067479
+46,Oct-15,"Trade, Transportation, and Utilities",1.006523765
+47,Nov-15,"Trade, Transportation, and Utilities",0.949074074
+48,Dec-15,"Trade, Transportation, and Utilities",0.94765343
+49,Jan-16,"Trade, Transportation, and Utilities",1.020114943
+50,Feb-16,"Trade, Transportation, and Utilities",0.946538124
+51,Mar-16,"Trade, Transportation, and Utilities",0.995318352
+52,Apr-16,"Trade, Transportation, and Utilities",1.010147601
+53,May-16,"Trade, Transportation, and Utilities",1.048496605
+54,Jun-16,"Trade, Transportation, and Utilities",1.014124294
+55,Jul-16,"Trade, Transportation, and Utilities",0.982391103
+56,Aug-16,"Trade, Transportation, and Utilities",0.927655678
+57,Sep-16,"Trade, Transportation, and Utilities",0.933936652
+58,Oct-16,"Trade, Transportation, and Utilities",0.920837125
+59,Nov-16,"Trade, Transportation, and Utilities",0.98891129
+60,Dec-16,"Trade, Transportation, and Utilities",1.031791908
+61,Jan-17,"Trade, Transportation, and Utilities",0.928977273
+62,Feb-17,"Trade, Transportation, and Utilities",0.944444444
+63,Mar-17,"Trade, Transportation, and Utilities",1.013863216
+64,Apr-17,"Trade, Transportation, and Utilities",1.018
+65,May-17,"Trade, Transportation, and Utilities",0.987793427
+66,Jun-17,"Trade, Transportation, and Utilities",1.001809955
+67,Jul-17,"Trade, Transportation, and Utilities",1.143286573
+68,Aug-17,"Trade, Transportation, and Utilities",1.234021632
+69,Sep-17,"Trade, Transportation, and Utilities",1.176757812
+70,Oct-17,"Trade, Transportation, and Utilities",1.140350877
+71,Nov-17,"Trade, Transportation, and Utilities",1.205466541
+72,Dec-17,"Trade, Transportation, and Utilities",1.273303167
+73,Jan-18,"Trade, Transportation, and Utilities",1.220125786
+74,Feb-18,"Trade, Transportation, and Utilities",1.206071757
+75,Mar-18,"Trade, Transportation, and Utilities",1.260752688
+76,Apr-18,"Trade, Transportation, and Utilities",1.321899736
+77,May-18,"Trade, Transportation, and Utilities",1.326768129
+78,Jun-18,"Trade, Transportation, and Utilities",1.314616756
+79,Jul-18,"Trade, Transportation, and Utilities",1.326363636
+80,Aug-18,"Trade, Transportation, and Utilities",1.065235343
+81,Sep-18,"Trade, Transportation, and Utilities",1.339555556
+82,Oct-18,"Trade, Transportation, and Utilities",1.214698596
+83,Nov-18,"Trade, Transportation, and Utilities",1.357021997
+84,Dec-18,"Trade, Transportation, and Utilities",1.222319859
+85,Jan-19,"Trade, Transportation, and Utilities",1.253321523
+86,Feb-19,"Trade, Transportation, and Utilities",1.137931034
+87,Mar-19,"Trade, Transportation, and Utilities",1.206319703
+88,Apr-19,"Trade, Transportation, and Utilities",1.16856892
+89,May-19,"Trade, Transportation, and Utilities",1.101867572
+90,Jun-19,"Trade, Transportation, and Utilities",1.13372582
+91,Jul-19,"Trade, Transportation, and Utilities",1.05420712
+92,Aug-19,"Trade, Transportation, and Utilities",1.104591837
+93,Sep-19,"Trade, Transportation, and Utilities",1.060985798
+94,Oct-19,"Trade, Transportation, and Utilities",1.386425339
+95,Nov-19,"Trade, Transportation, and Utilities",1.055793991
+96,Dec-19,"Trade, Transportation, and Utilities",1.00084674
+97,Jan-20,"Trade, Transportation, and Utilities",1.003257329
+98,Feb-20,"Trade, Transportation, and Utilities",0.950558214
+99,Mar-20,"Trade, Transportation, and Utilities",0.945762712
+100,Apr-20,"Trade, Transportation, and Utilities",0.806890299
+101,May-20,"Trade, Transportation, and Utilities",0.651769088
+102,Jun-20,"Trade, Transportation, and Utilities",0.770965469
+103,Jul-20,"Trade, Transportation, and Utilities",0.981161695
+104,Aug-20,"Trade, Transportation, and Utilities",0.950120676
+105,Sep-20,"Trade, Transportation, and Utilities",0.894819466
+106,Oct-20,"Trade, Transportation, and Utilities",0.888971684
+107,Nov-20,"Trade, Transportation, and Utilities",1.020729685
+108,Dec-20,"Trade, Transportation, and Utilities",1.033653846
+109,Jan-21,"Trade, Transportation, and Utilities",1.100398406
+110,Feb-21,"Trade, Transportation, and Utilities",1.19658814
+111,Mar-21,"Trade, Transportation, and Utilities",1.312598425
+112,Apr-21,"Trade, Transportation, and Utilities",1.35446906
+113,May-21,"Trade, Transportation, and Utilities",1.297692308
+114,Jun-21,"Trade, Transportation, and Utilities",1.285714286
+115,Jul-21,"Trade, Transportation, and Utilities",1.406226835
+116,Aug-21,"Trade, Transportation, and Utilities",1.460202605
+117,Sep-21,"Trade, Transportation, and Utilities",1.419213974
+118,Oct-21,"Trade, Transportation, and Utilities",1.453471196
+119,Nov-21,"Trade, Transportation, and Utilities",1.36059744
+120,Dec-21,"Trade, Transportation, and Utilities",1.410312273
+1,Jan-12,Mining and Logging,0.714285714
+2,Feb-12,Mining and Logging,0.787878788
+3,Mar-12,Mining and Logging,0.571428571
+4,Apr-12,Mining and Logging,0.485714286
+5,May-12,Mining and Logging,0.578947368
+6,Jun-12,Mining and Logging,0.655172414
+7,Jul-12,Mining and Logging,0.518518519
+8,Aug-12,Mining and Logging,0.5625
+9,Sep-12,Mining and Logging,0.625
+10,Oct-12,Mining and Logging,0.433333333
+11,Nov-12,Mining and Logging,0.515151515
+12,Dec-12,Mining and Logging,0.548387097
+13,Jan-13,Mining and Logging,0.6
+14,Feb-13,Mining and Logging,0.823529412
+15,Mar-13,Mining and Logging,0.516129032
+16,Apr-13,Mining and Logging,0.714285714
+17,May-13,Mining and Logging,0.633333333
+18,Jun-13,Mining and Logging,0.606060606
+19,Jul-13,Mining and Logging,0.741935484
+20,Aug-13,Mining and Logging,0.888888889
+21,Sep-13,Mining and Logging,0.633333333
+22,Oct-13,Mining and Logging,0.677419355
+23,Nov-13,Mining and Logging,0.72
+24,Dec-13,Mining and Logging,0.741935484
+25,Jan-14,Mining and Logging,0.8
+26,Feb-14,Mining and Logging,0.8125
+27,Mar-14,Mining and Logging,0.972222222
+28,Apr-14,Mining and Logging,0.641025641
+29,May-14,Mining and Logging,0.914285714
+30,Jun-14,Mining and Logging,0.885714286
+31,Jul-14,Mining and Logging,0.939393939
+32,Aug-14,Mining and Logging,1.066666667
+33,Sep-14,Mining and Logging,0.882352941
+34,Oct-14,Mining and Logging,1.214285714
+35,Nov-14,Mining and Logging,1
+36,Dec-14,Mining and Logging,0.666666667
+37,Jan-15,Mining and Logging,0.5
+38,Feb-15,Mining and Logging,0.52
+39,Mar-15,Mining and Logging,0.727272727
+40,Apr-15,Mining and Logging,0.583333333
+41,May-15,Mining and Logging,0.789473684
+42,Jun-15,Mining and Logging,0.782608696
+43,Jul-15,Mining and Logging,0.703703704
+44,Aug-15,Mining and Logging,0.466666667
+45,Sep-15,Mining and Logging,0.818181818
+46,Oct-15,Mining and Logging,0.571428571
+47,Nov-15,Mining and Logging,0.772727273
+48,Dec-15,Mining and Logging,0.580645161
+49,Jan-16,Mining and Logging,0.52173913
+50,Feb-16,Mining and Logging,0.6
+51,Mar-16,Mining and Logging,0.44
+52,Apr-16,Mining and Logging,0.631578947
+53,May-16,Mining and Logging,0.55
+54,Jun-16,Mining and Logging,0.5
+55,Jul-16,Mining and Logging,0.409090909
+56,Aug-16,Mining and Logging,0.407407407
+57,Sep-16,Mining and Logging,0.535714286
+58,Oct-16,Mining and Logging,0.392857143
+59,Nov-16,Mining and Logging,0.65625
+60,Dec-16,Mining and Logging,1
+61,Jan-17,Mining and Logging,0.931034483
+62,Feb-17,Mining and Logging,0.787878788
+63,Mar-17,Mining and Logging,0.730769231
+64,Apr-17,Mining and Logging,1.034482759
+65,May-17,Mining and Logging,0.684210526
+66,Jun-17,Mining and Logging,0.870967742
+67,Jul-17,Mining and Logging,0.878787879
+68,Aug-17,Mining and Logging,0.966666667
+69,Sep-17,Mining and Logging,0.896551724
+70,Oct-17,Mining and Logging,0.935483871
+71,Nov-17,Mining and Logging,0.771428571
+72,Dec-17,Mining and Logging,0.766666667
+73,Jan-18,Mining and Logging,0.84375
+74,Feb-18,Mining and Logging,0.852941176
+75,Mar-18,Mining and Logging,0.75
+76,Apr-18,Mining and Logging,0.875
+77,May-18,Mining and Logging,0.682926829
+78,Jun-18,Mining and Logging,0.651162791
+79,Jul-18,Mining and Logging,0.72972973
+80,Aug-18,Mining and Logging,0.681818182
+81,Sep-18,Mining and Logging,0.775
+82,Oct-18,Mining and Logging,1.03030303
+83,Nov-18,Mining and Logging,1.071428571
+84,Dec-18,Mining and Logging,0.666666667
+85,Jan-19,Mining and Logging,0.96875
+86,Feb-19,Mining and Logging,0.96875
+87,Mar-19,Mining and Logging,0.885714286
+88,Apr-19,Mining and Logging,1.071428571
+89,May-19,Mining and Logging,1.074074074
+90,Jun-19,Mining and Logging,1.333333333
+91,Jul-19,Mining and Logging,1.727272727
+92,Aug-19,Mining and Logging,1.45
+93,Sep-19,Mining and Logging,1.318181818
+94,Oct-19,Mining and Logging,0.807692308
+95,Nov-19,Mining and Logging,1.052631579
+96,Dec-19,Mining and Logging,0.7
+97,Jan-20,Mining and Logging,1.125
+98,Feb-20,Mining and Logging,1.090909091
+99,Mar-20,Mining and Logging,0.722222222
+100,Apr-20,Mining and Logging,0.769230769
+101,May-20,Mining and Logging,0.625
+102,Jun-20,Mining and Logging,1.777777778
+103,Jul-20,Mining and Logging,0.526315789
+104,Aug-20,Mining and Logging,0.714285714
+105,Sep-20,Mining and Logging,0.666666667
+106,Oct-20,Mining and Logging,1.066666667
+107,Nov-20,Mining and Logging,0.75
+108,Dec-20,Mining and Logging,0.85
+109,Jan-21,Mining and Logging,1.428571429
+110,Feb-21,Mining and Logging,1.25
+111,Mar-21,Mining and Logging,1.041666667
+112,Apr-21,Mining and Logging,1.1
+113,May-21,Mining and Logging,1.227272727
+114,Jun-21,Mining and Logging,1.136363636
+115,Jul-21,Mining and Logging,1.7
+116,Aug-21,Mining and Logging,1.571428571
+117,Sep-21,Mining and Logging,1.8125
+118,Oct-21,Mining and Logging,1.380952381
+119,Nov-21,Mining and Logging,1.842105263
+120,Dec-21,Mining and Logging,1.7
+1,Jan-12,Manufacturing,0.936329588
+2,Feb-12,Manufacturing,0.920454545
+3,Mar-12,Manufacturing,1.140794224
+4,Apr-12,Manufacturing,0.946564885
+5,May-12,Manufacturing,1.193675889
+6,Jun-12,Manufacturing,1.098540146
+7,Jul-12,Manufacturing,1.036290323
+8,Aug-12,Manufacturing,1.145922747
+9,Sep-12,Manufacturing,1.082969432
+10,Oct-12,Manufacturing,1.08
+11,Nov-12,Manufacturing,1.028340081
+12,Dec-12,Manufacturing,1.068376068
+13,Jan-13,Manufacturing,1.020242915
+14,Feb-13,Manufacturing,1.150406504
+15,Mar-13,Manufacturing,1.162895928
+16,Apr-13,Manufacturing,0.995901639
+17,May-13,Manufacturing,0.901818182
+18,Jun-13,Manufacturing,0.919148936
+19,Jul-13,Manufacturing,0.940425532
+20,Aug-13,Manufacturing,1.071428571
+21,Sep-13,Manufacturing,1.026819923
+22,Oct-13,Manufacturing,1.272727273
+23,Nov-13,Manufacturing,1.22007722
+24,Dec-13,Manufacturing,1.185483871
+25,Jan-14,Manufacturing,1.074074074
+26,Feb-14,Manufacturing,1.186721992
+27,Mar-14,Manufacturing,1.097276265
+28,Apr-14,Manufacturing,1.091269841
+29,May-14,Manufacturing,1.171314741
+30,Jun-14,Manufacturing,1.195488722
+31,Jul-14,Manufacturing,1.108614232
+32,Aug-14,Manufacturing,1.325102881
+33,Sep-14,Manufacturing,1.076388889
+34,Oct-14,Manufacturing,0.993243243
+35,Nov-14,Manufacturing,1.243346008
+36,Dec-14,Manufacturing,1.112318841
+37,Jan-15,Manufacturing,1.258823529
+38,Feb-15,Manufacturing,1.174904943
+39,Mar-15,Manufacturing,1.205992509
+40,Apr-15,Manufacturing,1.237547893
+41,May-15,Manufacturing,1.260700389
+42,Jun-15,Manufacturing,1.085820896
+43,Jul-15,Manufacturing,1.263157895
+44,Aug-15,Manufacturing,1.145985401
+45,Sep-15,Manufacturing,1.082474227
+46,Oct-15,Manufacturing,1.109540636
+47,Nov-15,Manufacturing,1.099630996
+48,Dec-15,Manufacturing,1.237037037
+49,Jan-16,Manufacturing,1.142348754
+50,Feb-16,Manufacturing,1.128472222
+51,Mar-16,Manufacturing,1.302325581
+52,Apr-16,Manufacturing,1.392086331
+53,May-16,Manufacturing,1.307407407
+54,Jun-16,Manufacturing,1.291814947
+55,Jul-16,Manufacturing,1.228571429
+56,Aug-16,Manufacturing,1.239543726
+57,Sep-16,Manufacturing,1.156028369
+58,Oct-16,Manufacturing,1.045454545
+59,Nov-16,Manufacturing,1.202090592
+60,Dec-16,Manufacturing,1.221854305
+61,Jan-17,Manufacturing,1.200647249
+62,Feb-17,Manufacturing,1.250847458
+63,Mar-17,Manufacturing,1.223602484
+64,Apr-17,Manufacturing,1.169278997
+65,May-17,Manufacturing,1.029673591
+66,Jun-17,Manufacturing,1.166666667
+67,Jul-17,Manufacturing,1.124242424
+68,Aug-17,Manufacturing,1.138211382
+69,Sep-17,Manufacturing,1.319148936
+70,Oct-17,Manufacturing,1.221902017
+71,Nov-17,Manufacturing,1.268221574
+72,Dec-17,Manufacturing,1.137640449
+73,Jan-18,Manufacturing,1.212121212
+74,Feb-18,Manufacturing,1.196765499
+75,Mar-18,Manufacturing,1.170868347
+76,Apr-18,Manufacturing,1.218232044
+77,May-18,Manufacturing,1.245283019
+78,Jun-18,Manufacturing,1.246612466
+79,Jul-18,Manufacturing,1.194805195
+80,Aug-18,Manufacturing,1.352303523
+81,Sep-18,Manufacturing,1.429429429
+82,Oct-18,Manufacturing,1.263291139
+83,Nov-18,Manufacturing,1.420765027
+84,Dec-18,Manufacturing,1.346820809
+85,Jan-19,Manufacturing,1.221590909
+86,Feb-19,Manufacturing,1.380952381
+87,Mar-19,Manufacturing,1.266081871
+88,Apr-19,Manufacturing,1.305084746
+89,May-19,Manufacturing,1.393491124
+90,Jun-19,Manufacturing,1.437308869
+91,Jul-19,Manufacturing,1.361445783
+92,Aug-19,Manufacturing,1.303571429
+93,Sep-19,Manufacturing,1.277777778
+94,Oct-19,Manufacturing,1.306930693
+95,Nov-19,Manufacturing,1.162011173
+96,Dec-19,Manufacturing,1.100591716
+97,Jan-20,Manufacturing,1.26625387
+98,Feb-20,Manufacturing,1.106442577
+99,Mar-20,Manufacturing,0.977917981
+100,Apr-20,Manufacturing,0.844444444
+101,May-20,Manufacturing,0.497645212
+102,Jun-20,Manufacturing,0.709543568
+103,Jul-20,Manufacturing,1.2
+104,Aug-20,Manufacturing,1.187341772
+105,Sep-20,Manufacturing,1.255936675
+106,Oct-20,Manufacturing,1.366925065
+107,Nov-20,Manufacturing,1.17603912
+108,Dec-20,Manufacturing,1.054176072
+109,Jan-21,Manufacturing,1.478753541
+110,Feb-21,Manufacturing,1.377088305
+111,Mar-21,Manufacturing,1.672605791
+112,Apr-21,Manufacturing,2.195431472
+113,May-21,Manufacturing,2.153284672
+114,Jun-21,Manufacturing,2.020361991
+115,Jul-21,Manufacturing,2.010660981
+116,Aug-21,Manufacturing,1.885529158
+117,Sep-21,Manufacturing,2.00212766
+118,Oct-21,Manufacturing,1.918918919
+119,Nov-21,Manufacturing,1.733333333
+120,Dec-21,Manufacturing,1.63238512
+1,Jan-12,Construction,0.268072289
+2,Feb-12,Construction,0.197101449
+3,Mar-12,Construction,0.288888889
+4,Apr-12,Construction,0.405017921
+5,May-12,Construction,0.283950617
+6,Jun-12,Construction,0.174157303
+7,Jul-12,Construction,0.237837838
+8,Aug-12,Construction,0.347181009
+9,Sep-12,Construction,0.259562842
+10,Oct-12,Construction,0.332288401
+11,Nov-12,Construction,0.25
+12,Dec-12,Construction,0.403125
+13,Jan-13,Construction,0.356083086
+14,Feb-13,Construction,0.362433862
+15,Mar-13,Construction,0.326760563
+16,Apr-13,Construction,0.384353741
+17,May-13,Construction,0.353982301
+18,Jun-13,Construction,0.385294118
+19,Jul-13,Construction,0.338762215
+20,Aug-13,Construction,0.369636964
+21,Sep-13,Construction,0.401253918
+22,Oct-13,Construction,0.36827957
+23,Nov-13,Construction,0.501607717
+24,Dec-13,Construction,0.440740741
+25,Jan-14,Construction,0.543859649
+26,Feb-14,Construction,0.492907801
+27,Mar-14,Construction,0.462962963
+28,Apr-14,Construction,0.387959866
+29,May-14,Construction,0.373040752
+30,Jun-14,Construction,0.545774648
+31,Jul-14,Construction,0.446107784
+32,Aug-14,Construction,0.373529412
+33,Sep-14,Construction,0.391891892
+34,Oct-14,Construction,0.454268293
+35,Nov-14,Construction,0.431677019
+36,Dec-14,Construction,0.348370927
+37,Jan-15,Construction,0.417613636
+38,Feb-15,Construction,0.511976048
+39,Mar-15,Construction,0.518867925
+40,Apr-15,Construction,0.439306358
+41,May-15,Construction,0.508038585
+42,Jun-15,Construction,0.423976608
+43,Jul-15,Construction,0.478827362
+44,Aug-15,Construction,0.44
+45,Sep-15,Construction,0.364179104
+46,Oct-15,Construction,0.408408408
+47,Nov-15,Construction,0.353448276
+48,Dec-15,Construction,0.471641791
+49,Jan-16,Construction,0.563333333
+50,Feb-16,Construction,0.542134831
+51,Mar-16,Construction,0.572222222
+52,Apr-16,Construction,0.5
+53,May-16,Construction,0.553459119
+54,Jun-16,Construction,0.674242424
+55,Jul-16,Construction,0.598290598
+56,Aug-16,Construction,0.547058824
+57,Sep-16,Construction,0.82278481
+58,Oct-16,Construction,0.623931624
+59,Nov-16,Construction,0.591304348
+60,Dec-16,Construction,0.458646617
+61,Jan-17,Construction,0.4025
+62,Feb-17,Construction,0.5
+63,Mar-17,Construction,0.447570332
+64,Apr-17,Construction,0.540469974
+65,May-17,Construction,0.43877551
+66,Jun-17,Construction,0.535620053
+67,Jul-17,Construction,0.564516129
+68,Aug-17,Construction,0.528205128
+69,Sep-17,Construction,0.486215539
+70,Oct-17,Construction,0.519083969
+71,Nov-17,Construction,0.669421488
+72,Dec-17,Construction,0.725
+73,Jan-18,Construction,0.724431818
+74,Feb-18,Construction,0.504761905
+75,Mar-18,Construction,0.601078167
+76,Apr-18,Construction,0.657303371
+77,May-18,Construction,0.666666667
+78,Jun-18,Construction,0.812834225
+79,Jul-18,Construction,0.710997442
+80,Aug-18,Construction,0.759162304
+81,Sep-18,Construction,0.814516129
+82,Oct-18,Construction,0.787965616
+83,Nov-18,Construction,0.762025316
+84,Dec-18,Construction,0.915343915
+85,Jan-19,Construction,0.705479452
+86,Feb-19,Construction,0.75
+87,Mar-19,Construction,0.938172043
+88,Apr-19,Construction,0.978823529
+89,May-19,Construction,0.945169713
+90,Jun-19,Construction,0.715962441
+91,Jul-19,Construction,0.844736842
+92,Aug-19,Construction,0.794621027
+93,Sep-19,Construction,0.753393665
+94,Oct-19,Construction,0.666666667
+95,Nov-19,Construction,0.569739953
+96,Dec-19,Construction,0.578947368
+97,Jan-20,Construction,0.70263789
+98,Feb-20,Construction,0.751861042
+99,Mar-20,Construction,0.576441103
+100,Apr-20,Construction,0.99047619
+101,May-20,Construction,0.387895461
+102,Jun-20,Construction,0.4609375
+103,Jul-20,Construction,0.75826972
+104,Aug-20,Construction,0.62628866
+105,Sep-20,Construction,0.596401028
+106,Oct-20,Construction,0.639896373
+107,Nov-20,Construction,0.689655172
+108,Dec-20,Construction,0.655256724
+109,Jan-21,Construction,0.851851852
+110,Feb-21,Construction,0.672774869
+111,Mar-21,Construction,0.756756757
+112,Apr-21,Construction,0.98502994
+113,May-21,Construction,1.003257329
+114,Jun-21,Construction,0.919770774
+115,Jul-21,Construction,0.923287671
+116,Aug-21,Construction,0.97574124
+117,Sep-21,Construction,1.005780347
+118,Oct-21,Construction,1.082872928
+119,Nov-21,Construction,0.855140187
+120,Dec-21,Construction,0.994459834

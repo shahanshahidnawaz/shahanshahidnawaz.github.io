@@ -132,3 +132,14 @@ name {
 span.highlight {
   background-color: #ffffd0;
 }
+
+/* styles.css */
+.collapsible-content {
+    max-height: 0; /* Set the default state to collapsed */
+    overflow: hidden;
+    transition: max-height 0.3s ease-out; /* Add a smooth transition effect */
+}
+
+.collapsible-header {
+    cursor: pointer;
+}

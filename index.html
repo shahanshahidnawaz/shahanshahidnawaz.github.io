@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Collapsible Row with Responsive Image</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="responsive_image.js" defer></script>
+    <link rel="stylesheet" type="text/css" href="stylesheet.css">
+</head>
+
+<body>
+    <div class="container mt-4">
+        <div class="row mb-3">
+            <div class="col">
+                <h1>Shahan Shahid Nawaz</h1>
+                <p>I am a Data Scientist passionate about solving exciting problems, and data visualization.
+                </p>
+                <p>I hold the <a href="https://www.ischool.berkeley.edu/programs/mims" target="_blank">Master of
+                        Information Management &amp; Systems</a> from UC Berkeley's School of Information for which
+                    I
+                    studied Machine Learning and Data Visualization. I
+                    served as a Data Scientist Researcher at the
+                    Othering and Belonging Institute's <a href="https://belonging.berkeley.edu/equity-metrics"
+                        target="_blank">Equity Metrics team</a> where I used data science to tackle questions of
+                    inclusivity including a statewide analysis of the extent and impact of <a
+                        href="https://belonging.berkeley.edu/single-family-zoning-california-statewide-analysis"
+                        target="_blank">single-family zoning</a> in California.
+                </p>
+                <p>Also during my master's, I built several Data Science projects involving Machine Learning,
+                    Dimensionality Reduction in Python (pandas, scikit-learn), and Spatial Analysis (R, Python
+                    (geopandas)); coded Arduino hardware to build a smart scent diffuser;
+                    learnt swimming; and studied Punjabi in the Gurmukhi script.
+                <p>
+                <p>Before that, I was based in Hong Kong between 2018 and 2020 as the <a href="https://caps.org/"
+                        target="_blank">Centre for Asian Philanthropy and Society</a>'s main data
+                    resource and helped produce <a
+                        href="https://caps.org/work/our-research_doing-good-index-2020">cross-regional and
+                        one-of-a-kind</a> data analysis. From 2015-2018, I worked under eminent economists helping
+                    implement a <a href="https://www.cerp.org.pk/project/tax-and-public-services"
+                        target="_blank">randomized
+                        controlled trial in Pakistan </a> (113,000 households spread
+                    across
+                    two metropoles: Lahore and Faisalabad) aimed at mending the citizen-state
+                    social contract.
+                </p>
+                </p>
+                <p>I am available to discuss collaborations or professional opportunities.
+                </p>
+                <p style="text-align:left">
+                    <strong><a href="mailto:shahan.shahid@berkeley.edu" target="_blank">Email</a></strong> &nbsp/&nbsp
+                    <strong><a href="https://app.box.com/s/gtpgybx5tm188ta4lru9nsz6a8trsuxz"
+                            target="_blank">CV</a></strong> &nbsp/&nbsp
+                    <strong><a href="https://www.linkedin.com/in/shahan-shahid/" target="_blank">LinkedIn</a></strong>
+                    &nbsp/&nbsp
+                    <strong><a href="https://github.com/shahanshahidnawaz/" target="_blank">GitHub</a>
+                    </strong>
+                </p>
+                <p>Click on the sections below to expand them.
+                </p>
+                </p>
+            </div>
+        </div>
+        <button class="btn btn-primary mb-3" type="button" data-bs-toggle="collapse" data-bs-target="#secondRow"
+            aria-expanded="false" aria-controls="secondRow">
+            Data Science Toolkit
+        </button>
+        <div class="collapse" id="secondRow">
+            <div class="row">
+                <div class="col">
+                    <img src="images/Data Science Toolkit.svg" class="img-fill-width" alt="Responsive image"
+                        id="responsiveImage">
+                </div>
+            </div>
+        </div>
+
+        <button class="btn btn-primary mb-3" type="button" data-bs-toggle="collapse" data-bs-target="#thirdRow"
+            aria-expanded="false" aria-controls="secondRow">
+            Data Science Projects
+        </button>
+
+        <div class="row mb-4 collapse" id="thirdRow">
+            <!-- Data Science Project 1 -->
+            <div class="col-3">
+                <img src="images/obi-logo.PNG" class="img-fluid" alt="Othering & Belonging Institute Logo">
+            </div>
+            <div class="col-9">
+                <h5><a href="https://belonging.berkeley.edu/index-results" target="_blank">Single-Family Zoning in
+                        California: A Statewide Analysis | May 2024
+                    </a>
+                </h5>
+                <p>Tool: R, Python, Geospatial Analysis</p>
+                <p>Author and Data Lead for a study of the extent and impact of single-family zoning across
+                    all of California (481 cities) using spatial (ArcGIS) and data analysis (R) and automation
+                    (Python). This project is the Institute’s flagship effort on Zoning Reform. I also helped
+                    transition <a href="https://belonging.berkeley.edu/index-results">another product’s
+                        analysis</a> from Excel to R (currently in use); and wrote testing software in R
+                    (testthat) to ensure reliability of a statewide<a
+                        href="https://belonging.berkeley.edu/final-2024-ctcac-hcd-opportunity-map"> information
+                        visualisation tool</a>.
+                </p>
+            </div>
+
+            <!-- Data Science Project 2 -->
+            <div class="col-3">
+                <img src="images/bws-logo.PNG" class="img-fluid" alt="Breakwater Strategy Logo">
+            </div>
+            <div class="col-9">
+                <h5><a href="https://breakwaterstrategy.com/excelling-at-telling-stories-with-data-learn-and-get-inspired/"
+                        target="_blank">Excelling at Telling Stories with Data: Learn and Get Inspired | August 2022
+                    </a>
+                </h5>
+                <p>Blogpost and concluding exercise of my 3-month Summer Fellowship at Breakwater Strategy–a boutique
+                    strategic communications firm working with household brands–where I provided Data Visualization
+                    Leadership. I Updated 50+ client-facing data visualisation slides; templatized my work for reuse and
+                    extension; steered a culture of data visualisation by leading 4 bi-weekly company-wide data
+                    visualization discussions; and authored a data-viz focused organisational plan to differentiate
+                    Breakwater Strategy in the industry. This blogpost (linked) received 3500+ impressions.</a>
+                </p>
+            </div>
+
+            <!-- Data Science Project 2 -->
+            <div class="col-3">
+                <img src="images/doing-good-index-cover.png" class="img-fluid"
+                    alt="Cover Page of Doing Good Index 2020">
+            </div>
+            <div class="col-9">
+                <h5><a href="https://doinggoodindex.caps.org/dashboard" target="_blank">Doing Good Index | August 2020
+                    </a>
+                </h5>
+                <p>Tool: Wireframes, Sketches, PowerBI, Stata</p>
+                <p>Data Lead for data analysis (Stata) and pioneering presentation style of Doing Good Index 2020, the
+                    centre’s flagship research product covering 18 Asian economies, as a scrollytelly platform and
+                    interactive
+                    dashboard (linked). At large, I helped create a more data-focused org by leading an
+                    organization-wide
+                    transition from Excel to Stata.
+                </p>
+            </div>
+        </div>
+    </div>
+    </div>
+</body>
+
+</html>
